@@ -1,0 +1,1 @@
+This goal of this repo is to help beginner to pick up basic python. In each of the file we will go through very simple content such that even people with no programming background can understand.
