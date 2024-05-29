@@ -12,3 +12,8 @@ Summary of the lessons:
 - Lesson 04 : If Statement, functions
 
 
+Enjoy!
+
+Copyrights to fabiantoh98, feel free to download the content and learn but do not published it as your own. 
+
+*you may fork the repo but kindly give credit to me :D
