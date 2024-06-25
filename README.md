@@ -11,6 +11,7 @@ Summary of the lessons:
 - Lesson 03  : Playing with list, for loop, while loop
 - Lesson 04  : If Statement, functions
 - Lesson 04A : Supplementary lesson for Lesson 04
+- Lesson 04B : AUTO HTML, converting a paragraph of text to simple html (self practice) 
 - Lesson 05  : Try and Except
 
 
